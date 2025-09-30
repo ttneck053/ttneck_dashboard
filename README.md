@@ -1,3 +1,6 @@
+본 레포에 있는 파일들은 로컬 버전과 다름.
+
+---------------------------------
 ### 1️⃣ Detail Diagram
 <img width="500" height="400"
      alt="instagram_popularity_erd" 
